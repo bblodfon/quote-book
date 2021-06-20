@@ -1,0 +1,19 @@
+---
+title: "A Book of Quotes"
+author: "[John Zobolas](https://github.com/bblodfon)"
+date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+description: "A collection of quotes during my life"
+url: 'https\://bblodfon.github.io/quote-book/'
+github-repo: "bblodfon/quote-book"
+site: bookdown::bookdown_site
+---
+
+# Preface {-}
+
+A collection of various quotes and text segments gathered through the course of my life from various sources.
+You will notice that I have split the quotes to some basic categories.
+For some of these I also briefly discuss their context or state my personal opinion with regard to why I found them important to remember in the first place.
+So, interesting material overall!
+
+Feel free to browse the collection :)
+

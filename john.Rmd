@@ -1,0 +1,21 @@
+# John's Quotes {-}
+
+:::{.quote}
+```{=html}
+<blockquote style='border:none'>&ldquo;Push forward and hard.&rdquo; </br><strong>John Zobolas</strong></blockquote>
+```
+:::
+
+![](img/trim.jpg)
+
+> Trim that string. Always.
+
+> Nothing is statistically significant anymore!
+
+> There are no weekends.
+
+> To learn the Art of Programming you *need* to learn the Art of Debugging first
+
+> In the DrugLogics group we don’t do research. 
+We do *badass* research
+
