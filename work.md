@@ -4,6 +4,9 @@
 
 *G.H. Hardy, A Mathematician's Apology*
 
+This resonates so much within me (I put it in my PhD thesis as well :)
+The **care and value of the work** is measured in kind not degree.
+
 > Remember, things take time.
 
 *Piet Hein*, Danish polymath.
@@ -13,28 +16,23 @@ Biggest excuse is that they don't have time.
 
 *CT Fletcher, Shit Talking Saturdays Vol. 2, [see video](https://youtu.be/W0t48EngZ4w?t=152)*
 
-This applies to any person really who justs finds excuses to cover for his inability 
-to get down to do the **work**. 
-I myself, have a hard time dealing with these (as CT calls them), *excuse-making* 
-motherfuckers!
+This applies to any person really who justs finds excuses to cover for his inability to get down and do the **work**.
+I myself, have a hard time dealing with these (as CT calls them), *excuse-making* motherfuckers!
 
 > What I cannot create, I do not understand.
 
 *Richard Feynman*
 
-This was a nice argument for the *openWorm* project: we have to create a digital
-model of an organism in order to be able to say that we fully understand it 
-(its behaviour for example). A small step also for making a digital human/avatar.
+This was a nice argument for the *openWorm* project: we have to create a digital model of an organism in order to be able to say that we fully understand it (i.e. explain its behaviour).
+A small step also towards making a digital human (avatar).
 
 > If you cannot explain something in simple terms, you don't understand it.
 
 *Richard Feynman*
 
-This should be the most prolific quote for science communication. A lot of 
-people do nice work in general, but if you cannot explain it in another 
-(intelligent human) being, then what is the purpose? How can you show your 
-passion to others about what you are doing without being able to express it 
-in relative simple terms/language?
+This should be the most prolific quote for science communication.
+A lot of people do nice work in general, but if you cannot explain it in another (intelligent human) being, then what is the purpose?
+How can you show your passion to others about what you are doing without being able to express it in relative simple terms (language)?
 
 > Paul Erdös — well known for his hyperactivity and his habit of working 19-hour 
 days, even well into his old age; and his tendency to show up on his colleagues' 
