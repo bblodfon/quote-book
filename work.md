@@ -4,7 +4,7 @@
 
 *G.H. Hardy, A Mathematician's Apology*
 
-This resonates so much within me (I put it in my PhD thesis as well :)
+This resonates so much with me (I put it in my PhD thesis as well :)
 The **care and value of the work** is measured in kind not degree.
 
 > Remember, things take time.
