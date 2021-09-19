@@ -10,7 +10,7 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-A collection of various quotes and text segments gathered through the course of my life from various sources.
+A collection of various quotes and text segments gathered through the course of my life from various sources (e.g. books, online, etc.).
 You will notice that I have split the quotes to some basic categories.
 For some of these I also briefly discuss their context or state my personal opinion with regard to why I found them important to remember in the first place.
 So, interesting material overall!
