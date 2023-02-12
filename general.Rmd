@@ -1,5 +1,9 @@
 # General {-}
 
+> Faking intelligence is intelligence. And you can only fake it if you have it!
+
+*Judea Pearl* - interview with Lex Friedman [link](https://www.youtube.com/watch?v=pEBI0vF45ic)
+
 > Time slows if you are moving fast.
 
 I read this in an article from the Quanta magazine where the author was describing the paradox of Alice and Bob, related to Einstein's theories of relativity.
