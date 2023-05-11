@@ -1,5 +1,11 @@
 # Work
 
+> Taking handwritten notes (which is a slower practice than typing) forces you to encode/summarize the knowledge in your own words and that process of recoding promotes long-term attention.
+
+*Andrew Ng*, from an [interview](https://youtu.be/0jspaMLxBig) with Lex Fridman.
+
+He nicely summarized the results of some studies on why taking handwritten notes is actually good for attention and understanding compared to typing verbatim what you hear.
+
 > The case for my life, then, or for that of any one else who has been a mathematician in the same sense which I have been one, is this: that I have added something to knowledge, and helped others to add more; and that these somethings have a value which differs in degree only, and not in kind, from that of the creations of the great mathematicians, or of any of the other artists, great or small, who have left some kind of memorial behind them.
 
 *G.H. Hardy, A Mathematician's Apology*
